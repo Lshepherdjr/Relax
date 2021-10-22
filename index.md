@@ -13,8 +13,8 @@ Syntax highlighted code block
 
 # About Me I currenly live in Columbia Mo. 
 ## Resume:
-573.823.6227	LARRY E. SHEPHERD, JR.
-U.S. Department of Veterans Affairs	lmshep@centurytel.net
+LARRY E. SHEPHERD, JR.
+U.S. Department of Veterans Affairs	
 
 
 
