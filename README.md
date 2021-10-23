@@ -4,5 +4,17 @@
    I Got You!
    
    
+   
+   List Favorite Colors:
+   
+   Green
+   
+   Pruple
+   
+   Orange
+   
+   
+   
+   
   
       
