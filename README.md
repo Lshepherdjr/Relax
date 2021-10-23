@@ -3,43 +3,43 @@
   Welcome.
    I Got You!
    
-   Font *Italic* or **Bold**
-   Code highlight bactick
+   *About Me: 
+   Hello I live in Columbia Mo. I've been in Columbia for over 20 year's.* 
    
-   ##Header two
+   **Hobbies: Some of my Hobbies are Hanging out with family and friends, working out, meditation also watching a good movie.**
    
-   New paragraph.
-   Hyperlinks look like (Github Help (Https://help.github.com).
+   
+   My favorite link:
+  (One of my favorite sites. (https://www.arrowheadpride.com/).
   
   
-  ### Header Three
+  Work History
   
-  Bullet list:
+  1. Project Manager
+  2. Veterans Affairs
+  3. Locomotive Engineer Norfolk Southern Railroad
+  4. Corrections Officer
   
-  - cats 
-  - dogs
-  - muffins
+  Best Attributes
+  - Discipline
+  - Compassionate
+  - Good Listene
+  
 
-Numberd list:
-
-1. One
-
-2. dogs
-
-
-3. Cats
+  
+  
    
    
    
    
    
-   List Favorite Colors:
+  
    
-   Green
+  
    
-   Pruple
    
-   Orange
+   
+  
    
  
    
