@@ -76,15 +76,17 @@ Locomotive Engineer and Accelerated Conductor Schools
 MOBERLY AREA COMMUNITY COLLEGE
 Course Study in General Studies
 
-### Header 3
+### Chill Mode
 
-- Bulleted
+- Its just another day
+- Brethe 
+- It is what it is
 - List
 
 1. Numbered
 2. List
 
-**Help** and _Help_ and `Code` text
+**Relax** and _Everyday_ and `Code` text
 
 [Link](url) and ![Image](src)src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
   
