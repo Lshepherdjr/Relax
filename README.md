@@ -86,6 +86,6 @@ Course Study in General Studies
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Help** and _Help_ and `Code` text
 
 [Link](url) and ![Image](src)
