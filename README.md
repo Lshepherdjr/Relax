@@ -86,7 +86,7 @@ Course Study in General Studies
 1. Numbered
 2. List
 
-**Relax** and _Everyday_ and `Code` text
+**Relax** _Everyday_ print("Smile")
 
 [Link](url) and ![Image](src)src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
   
