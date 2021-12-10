@@ -28,152 +28,65 @@
 <img src=<img src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
   
   
-.nav-bar {
-    width: 100%;
-    background-color: #133667;
-    font-family: "Poppins", serif;
-    font-weight: 700 !important;
-    padding-top: 10px;
-}
+Syntax highlighted code block
 
-.nav-content .logo-touch-target {
-    display: inline-flex;
-    height: 60%;
-    width: 350px;
-}
-
-.nav-content .nav-logo {
-    height: 60px;
-    margin: auto;
-}
-
-.nav-logo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.nav-logo img {
-    width: 200px;
-}
-
-.nav-content nav {
-    display: block;
-    width: 100%;
-    text-align: right;
-    padding-top: 0px;
-    padding-right: 0px;
-}   
-   
- @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
-@import 'navbar';
-@import 'profile';
-@import 'page';
-
-.card-container {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    font-family: "Open Sans", sans-serif;
-}
-
-@media only screen and (max-width: 1500px) {
-  .card-container {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media only screen and (max-width: 1000px) {
-  .card-container {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media only screen and (max-width: 768px) {
-  .card-container {
-    grid-template-columns: 1fr;
-  }
-}
+# About Me I currenly live in Columbia Mo. 
+## Resume:
+LARRY E. SHEPHERD, JR.
+U.S. Department of Veterans Affairs	
 
 
-body {
-    background-color: #f5f5f9;
-    margin-bottom: 50px;
-}
-h2 {
-    margin-bottom: 20px;
-    margin-top: 20px;
-    font-weight: 700;
-    text-align: center;
-}
 
-.card {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin: 20px 30px;
-    background-color: white;
-    border-radius: .375rem;
-    padding: 1.5em;
-    font-size: 1.2em;
-}
+PROFESSIONAL SUMMARY
 
-a {
-    color: black;
-}
+Dedicated, safety-conscious and honorably-discharged military veteran with more than 10+ years of experience in railroad transportation. Quick to learn and master new skills; successfully working in both team and self-directed settings. Capable of performing work in areas such as materials handling, motor vehicle operation, housekeeping, and Police/Federal Protection. Proactive and a solid work ethic.
 
-.info {
-    p {
-        margin-top: 5px;
-        margin: 0px;
-        text-align: left;
-    }
+AREAS OF STRENGTHS
 
-    .title {
-        font-size: 500;
-        font-weight: bold;
-    }
+•	Trained by the U.S. Marines in properly using military weapons, tactics, and critical thinking (Educated in firearms safety and defensive tactics).
+•	Exhibit leadership/supervision as shown by executing the duties of a military squad leader.
+•	Acquired knowledge of effective troubleshooting, problem-solving and decision-making while serving as U.S. Marine Infantry Squad Leader.
+•	Demonstrate excellent verbal communications, positive attitude, time management and organization as a result of serving in the U.S. Marines.
+•	Learned crucial safety compliance skills by performing the responsibilities of a certified locomotive engineer at Norfolk Southern Railway.
+•	Certified in Adult First-Aid/CPR/AED-BL.	
 
-    .location, .description {
-        font-size: medium;
-        font-weight: 400;
-    }
+PROFESSIONAL EXPERIENCE
+  DEPARTMENT OF VETERANS AFFIARS – Facilities Management                      2020-Present
+•	 Cleaning wards, patient rooms, storerooms, offices, corridors, restrooms, shower rooms and other areas.
+•	Housekeeping Aids sweep, mop, scrub (machine) floors, vacuum carpets and upholstered furniture.
+•	Empty waste baskets, clean light globes and venetian blinds.
+•	Wash walls, windows and ceilings with climbing small ladders.
+•	Refill toilet tissue and towel dispensers.
+•	Housekeeping Aids carry out assignments with a minimum of supervision.
 
-    .dates {
-        font-size: small;
-        color: #404040;
-    }
-}
+	
 
-.icon {
-    width: 70px;
-    height: 70px;
-    margin-right: 20px;
-    padding: 10px;
 
-    img {
-        width: 100%;
-    }
-}  
-   
-   
-  
-   
-  
-   
-   
-   
-  
-   
- 
-   
-  
-  
-   
-   
-   
-   
-   
-   
-  
-      
+
+NORFOLK SOUTHERN RAILWAY – Locomotive Engineer	10+ Years
+
+•	Evaluated train orders, signals and rules/regulations; observed tracks for defects; and controlled throttle and air brakes for safe travel.
+•	Monitored gauges such as speedometer and air pressure to ensure locomotive ran safely.
+•	Communicated with conductors and train dispatcher about delays, stops and oncoming trains.
+•	Notified train supervisors and managers immediately of emergency conditions.
+•	Created end-trip reports to accurately detail crew problems, such as accidents and delays.
+
+EDUCATION
+
+NORFOLK SOUTHERN TRAINING CENTER
+Locomotive Engineer and Accelerated Conductor Schools
+MOBERLY AREA COMMUNITY COLLEGE
+Course Study in General Studies
+![image](https://user-images.githubusercontent.com/89431128/138531231-36ee4ac6-c330-4e23-a7be-0a354b189ca9.png)
+
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
