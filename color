@@ -3,12 +3,12 @@ body {
 }
   
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: blue;
+  margin-left: 25px;
 }
 
 #myDiv{
-  background-color: grey;
+  background-color: white;
   border-style: dotted;
-  border-color: blue;
+  border-color: green;
 }
