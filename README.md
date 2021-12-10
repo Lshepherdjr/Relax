@@ -77,7 +77,6 @@ NORFOLK SOUTHERN TRAINING CENTER
 Locomotive Engineer and Accelerated Conductor Schools
 MOBERLY AREA COMMUNITY COLLEGE
 Course Study in General Studies
-![image](https://user-images.githubusercontent.com/89431128/138531231-36ee4ac6-c330-4e23-a7be-0a354b189ca9.png)
 
 ### Header 3
 
