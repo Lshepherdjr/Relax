@@ -71,4 +71,18 @@ Course Study in General Studies
 **Help** and _Help_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 ```
