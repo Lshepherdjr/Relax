@@ -76,15 +76,12 @@ Locomotive Engineer and Accelerated Conductor Schools
 MOBERLY AREA COMMUNITY COLLEGE
 Course Study in General Studies
 
-### Chill Mode
+Chill Mode
+-Relax
+- No Worries
+- Just another Day
 
-- Its just another day
-- Brethe 
-- It is what it is
-- List
 
-1. Numbered
-2. List
 
 **Relax** _Everyday_ print("Smile")
 
