@@ -36,9 +36,9 @@ EDUCATION
 
 NORFOLK SOUTHERN TRAINING CENTER Locomotive Engineer and Accelerated Conductor Schools MOBERLY AREA COMMUNITY COLLEGE Course Study in General Studies
 
--Chill Mode
+<h4>Chill Mode<h/4>
 -Its just another day
--Brethe
+-Breathe
 
 1. Be Thankful
 2. Be Polite
