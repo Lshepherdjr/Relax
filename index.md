@@ -19,12 +19,6 @@ Compassionate
 Good Listener
 <img src=<img src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
 
-Syntax highlighted code block
-
-About Me I currenly live in Columbia Mo.
-Resume:
-LARRY E. SHEPHERD, JR. U.S. Department of Veterans Affairs
-
 PROFESSIONAL SUMMARY
 
 Dedicated, safety-conscious and honorably-discharged military veteran with more than 10+ years of experience in railroad transportation. Quick to learn and master new skills; successfully working in both team and self-directed settings. Capable of performing work in areas such as materials handling, motor vehicle operation, housekeeping, and Police/Federal Protection. Proactive and a solid work ethic.
