@@ -64,15 +64,18 @@ Locomotive Engineer and Accelerated Conductor Schools
 MOBERLY AREA COMMUNITY COLLEGE
 Course Study in General Studies
 
-Chill Mode
+
 -Relax
 - No Worries
-- Just another Day
+- Be Happy
 
+1.Wake Up
+2.Strech
+3.Say Thank You
 
 
 **Relax** _Everyday_ print("Smile")
 
-[Link](url) and ![Image](src)src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
+![Image](src)src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
   
 
