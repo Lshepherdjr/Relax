@@ -1,4 +1,4 @@
- Welcome.
+ <h1>Welcome.</h1>
    I Got You!
    
    *About Me: 
@@ -11,14 +11,13 @@
   (One of my favorite sites. (https://www.arrowheadpride.com/).
   
   
-  Work History
-  
+  <h2>Work History</h2>
   1. Project Manager
   2. Veterans Affairs
   3. Locomotive Engineer Norfolk Southern Railroad
   4. Corrections Officer
   
-  Best Attributes
+  <h3>Best Attributes</h3>
   - Discipline
   - Compassionate
   - Good Listener
