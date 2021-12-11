@@ -17,7 +17,6 @@ Best Attributes
 Discipline
 Compassionate
 Good Listener
-<img src=<img src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
 
 PROFESSIONAL SUMMARY
 
@@ -37,13 +36,14 @@ EDUCATION
 
 NORFOLK SOUTHERN TRAINING CENTER Locomotive Engineer and Accelerated Conductor Schools MOBERLY AREA COMMUNITY COLLEGE Course Study in General Studies
 
-Chill Mode
-Its just another day
-Brethe
-It is what it is
-List
-Numbered
-List
+-Chill Mode
+-Its just another day
+-Brethe
+
+1. Be Thankful
+2. Be Polite
+3. Say Hello
+
 Relax Everyday print("Smile")
 
 Link and Imagesrc=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
