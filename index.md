@@ -8,15 +8,15 @@ My favorite link: (One of my favorite sites. (https://www.arrowheadpride.com/).
 
 Work History
 
-Project Manager
-Veterans Affairs
-Locomotive Engineer Norfolk Southern Railroad
-Corrections Officer
-Best Attributes
+1.Project Manager
+2.Veterans Affairs
+3.Locomotive Engineer Norfolk Southern Railroad
+4.Corrections Officer
 
-Discipline
-Compassionate
-Good Listener
+Best Attributes
+-Discipline
+-Compassionate
+-Good Listener
 
 PROFESSIONAL SUMMARY
 
